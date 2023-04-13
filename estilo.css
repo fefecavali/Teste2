@@ -1,0 +1,28 @@
+body {
+    color: blueviolet;
+    background-color: rgb(188, 188, 230);
+}
+.h10 { 
+    background-color: bisque;
+    text-align: center;
+    font-family: sans-serif ;
+}
+h2 {
+    
+    background-color: bisque;
+    font-family: serif;
+    text-align: center;
+}
+
+p {
+    color: cornflowerblue;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#central{
+    color:rgb(177, 110, 221);
+}
+.importante { 
+    color: rgb(211, 106, 124)
+}
